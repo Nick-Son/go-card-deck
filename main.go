@@ -23,3 +23,5 @@ func main() {
 	cards.shuffle()
 	cards.print()
 }
+
+// add more tests
